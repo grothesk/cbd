@@ -1,0 +1,4 @@
+item,payer,date,amount,comment,name0,name1,name2,units
+food,name1,2023-01-01,50,,1,1,1,3
+drinks,name2,2023-01-01,77,,1,1,1,3
+tickets,name0,2023-01-01,18,,1,1,1,3
